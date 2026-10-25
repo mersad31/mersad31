@@ -20,16 +20,18 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| [Enterprise-AI-Knowledge-Hub](https://github.com/mersad31/Enterprise-AI-Knowledge-Hub) | Enterprise RAG with LLM gateway, semantic caching, multi-layer guardrails, Docker |
-| [Multi-Agent-Research-Assistant](https://github.com/mersad31/Multi-Agent-Research-Assistant) | LangGraph multi-agent system that searches the web and writes structured reports |
-| [call-center-audio-intelligence](https://github.com/mersad31/call-center-audio-intelligence) | FastAPI platform for diarization, STT, sentiment and operator scoring |
-| [Persian-Offline-Transcription-and-Diarization](https://github.com/mersad31/Persian-Offline-Transcription-and-Diarization) | Offline Persian speech-to-text with speaker labeling |
-| [CNN-Genetic-Algorithm-for-Intrusion-Detection-on-UNSW-NB15](https://github.com/mersad31/CNN-Genetic-Algorithm-for-Intrusion-Detection-on-UNSW-NB15) | 1D CNN tuned by a Genetic Algorithm for network intrusion detection |
-| [Hemorrhage-Detection](https://github.com/mersad31/Hemorrhage-Detection) | Multi-label CNN for brain CT hemorrhage classification |
-| [Vision-Transformer](https://github.com/mersad31/Vision-Transformer) | Vision Transformer vs CNN comparison |
-| [Stack-Overflow-Clustering](https://github.com/mersad31/Stack-Overflow-Clustering) | Consensus clustering of 60K+ developer profiles with a Streamlit dashboard |
+| Project | Problem it solves | Approach |
+|---|---|---|
+| [Enterprise-AI-Knowledge-Hub](https://github.com/mersad31/Enterprise-AI-Knowledge-Hub) | Safely answering questions over company documents | RAG + LLM gateway, semantic caching, multi-layer guardrails, Docker |
+| [call-center-audio-intelligence](https://github.com/mersad31/call-center-audio-intelligence) | Turning call recordings into structured insight | FastAPI pipeline: diarization, STT, sentiment, operator scoring |
+| [Hemorrhage-Detection](https://github.com/mersad31/Hemorrhage-Detection) | Detecting brain hemorrhage types in CT scans | Multi-label CNN (TensorFlow/Keras) |
+| [Multi-Agent-Research-Assistant](https://github.com/mersad31/Multi-Agent-Research-Assistant) | Slow, manual web research | LangGraph agents: decompose, search, review, write report |
+| [Stack-Overflow-Clustering](https://github.com/mersad31/Stack-Overflow-Clustering) | Understanding developer profiles at scale | 78 clustering configs + consensus clustering on 60K+ responses (96.4% holdout accuracy for the assignment model) |
+| [CNN-GA Intrusion Detection](https://github.com/mersad31/CNN-Genetic-Algorithm-for-Intrusion-Detection-on-UNSW-NB15) | Manual hyperparameter tuning of IDS models | 1D CNN tuned by a Genetic Algorithm on UNSW-NB15 |
+| [Persian-Offline-Transcription-and-Diarization](https://github.com/mersad31/Persian-Offline-Transcription-and-Diarization) | Transcribing Persian audio without sending it to the cloud | Offline speech-to-text + speaker diarization |
+| [arena-skill](https://github.com/mersad31/arena-skill) | Bad answers from a single LLM attempt | 100 strategies compete in a bracket, one answer survives |
+
+<!-- TODO: add a screenshot or GIF under the table, e.g. <p align="center"><img src="URL" width="700"></p> -->
 
 ---
 

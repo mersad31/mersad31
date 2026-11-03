@@ -30,9 +30,16 @@
 | [Stack-Overflow-Clustering](https://github.com/mersad31/Stack-Overflow-Clustering) | Understanding developer profiles at scale | 78 clustering configs + consensus clustering on 60K+ responses (96.4% holdout accuracy for the assignment model) |
 | [CNN-GA Intrusion Detection](https://github.com/mersad31/CNN-Genetic-Algorithm-for-Intrusion-Detection-on-UNSW-NB15) | Manual hyperparameter tuning of IDS models | 1D CNN tuned by a Genetic Algorithm on UNSW-NB15 |
 | [Persian-Offline-Transcription-and-Diarization](https://github.com/mersad31/Persian-Offline-Transcription-and-Diarization) | Transcribing Persian audio without sending it to the cloud | Offline speech-to-text + speaker diarization |
-| [arena-skill](https://github.com/mersad31/arena-skill) | Bad answers from a single LLM attempt | 100 strategies compete in a bracket, one answer survives |
 
 <!-- TODO: add a screenshot or GIF under the table, e.g. <p align="center"><img src="URL" width="700"></p> -->
+
+---
+
+## 🤝 Open Source Contributions
+
+| Project | Contribution |
+|---|---|
+| [Jakeschincariol/arena-skill](https://github.com/Jakeschincariol/arena-skill) | [PR #2](https://github.com/Jakeschincariol/arena-skill/pull/2): show a token estimate and ask for confirmation before large runs, to cut unexpected token usage |
 
 ---
 

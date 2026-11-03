@@ -39,7 +39,7 @@
 ## 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,fastapi,docker,git,linux,postgres" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,fastapi,postman,docker,git,linux,postgres" />
 </p>
 
 ---

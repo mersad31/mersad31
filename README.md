@@ -14,6 +14,7 @@
 - 🤖 Building **LLM / RAG** systems, multi-agent pipelines and speech-processing platforms
 - 👁️ Working on **computer vision** and deep learning: CNNs, Vision Transformers, medical imaging
 - 🔐 Interested in AI for **security** (intrusion detection with CNN + Genetic Algorithm)
+- 🗄️ Databases: **PostgreSQL**, **SQL Server**
 - 🗣️ Focused on **Persian (Farsi) NLP and speech**: transcription, diarization, call-center analytics
 
 ---
@@ -38,7 +39,7 @@
 ## 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,fastapi,docker,git,github,linux,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,fastapi,docker,git,linux,postgres" />
 </p>
 
 ---

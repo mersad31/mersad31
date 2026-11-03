@@ -10,7 +10,7 @@
 
 ## 🔥 About Me
 
-- 🎓 Studying at **K. N. Toosi University of Technology**, Tehran, Iran
+- 🎓 M.Sc. from **K. N. Toosi University of Technology** · B.Sc. from **University of Tehran**
 - 🤖 Building **LLM / RAG** systems, multi-agent pipelines and speech-processing platforms
 - 👁️ Working on **computer vision** and deep learning: CNNs, medical imaging
 - 🗄️ Databases: **PostgreSQL**, **SQL Server**

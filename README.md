@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mersad Ahmadi</h1>
 
-<h3 align="center">🧠 AI &amp; Machine Learning Engineer | Deep Learning · LLMs · Computer Vision</h3>
+<h3 align="center">🧠 AI Engineer | LLMs &amp; RAG · Speech · Computer Vision</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mersad31&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />

@@ -18,21 +18,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Problem it solves | Approach |
-|---|---|---|
-| [Enterprise-AI-Knowledge-Hub](https://github.com/mersad31/Enterprise-AI-Knowledge-Hub) | Safely answering questions over company documents | RAG + LLM gateway, semantic caching, multi-layer guardrails, Docker |
-| [Multi-Agent-Research-Assistant](https://github.com/mersad31/Multi-Agent-Research-Assistant) | Slow, manual web research | LangGraph agents: decompose, search, review, write report |
-| [call-center-audio-intelligence](https://github.com/mersad31/call-center-audio-intelligence) | Turning call recordings into structured insight | FastAPI pipeline: diarization, STT, sentiment, operator scoring |
-| [Stack-Overflow-Clustering](https://github.com/mersad31/Stack-Overflow-Clustering) | Understanding developer profiles at scale | 78 clustering configs + consensus clustering on 60K+ responses (96.4% holdout accuracy for the assignment model) |
-| [Hemorrhage-Detection](https://github.com/mersad31/Hemorrhage-Detection) | Detecting brain hemorrhage types in CT scans | Multi-label CNN (TensorFlow/Keras) |
-| [CNN-GA Intrusion Detection](https://github.com/mersad31/CNN-Genetic-Algorithm-for-Intrusion-Detection-on-UNSW-NB15) | Manual hyperparameter tuning of IDS models | 1D CNN tuned by a Genetic Algorithm on UNSW-NB15 |
-
-<!-- TODO: add a screenshot or GIF under the table, e.g. <p align="center"><img src="URL" width="700"></p> -->
-
----
-
 ## 🤝 Open Source Contributions
 
 | Project | Contribution |

@@ -13,7 +13,6 @@
 - 🎓 Studying at **K. N. Toosi University of Technology**, Tehran, Iran
 - 🤖 Building **LLM / RAG** systems, multi-agent pipelines and speech-processing platforms
 - 👁️ Working on **computer vision** and deep learning: CNNs, Vision Transformers, medical imaging
-- 🔐 Interested in AI for **security** (intrusion detection with CNN + Genetic Algorithm)
 - 🗄️ Databases: **PostgreSQL**, **SQL Server**
 - 🗣️ Focused on **Persian (Farsi) NLP and speech**: transcription, diarization, call-center analytics
 
